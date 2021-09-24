@@ -3,7 +3,10 @@ import java.util.List;
 public class TestMain {
     public static void main(String[] args) {
 
-        Board board = new Board(3, 5, 3);
+        Board board = new Board(5, 3);
+
+        board.printStart();
+        board.printFinish();
 
 
 /*
