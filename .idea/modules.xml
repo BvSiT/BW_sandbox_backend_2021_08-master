@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo_arrays/demo_arrays.iml" filepath="$PROJECT_DIR$/demo_arrays/demo_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_arrays/demo_arrays_test_zelf.iml" filepath="$PROJECT_DIR$/demo_arrays/demo_arrays_test_zelf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_lists/demo_lists.iml" filepath="$PROJECT_DIR$/demo_lists/demo_lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_loops/demo_loops.iml" filepath="$PROJECT_DIR$/demo_loops/demo_loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_maps/demo_maps.iml" filepath="$PROJECT_DIR$/demo_maps/demo_maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_oo_auto/demo_oo_auto.iml" filepath="$PROJECT_DIR$/demo_oo_auto/demo_oo_auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_oo_persoon/demo_oo_persoon.iml" filepath="$PROJECT_DIR$/demo_oo_persoon/demo_oo_persoon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eerste_project/eerste_project.iml" filepath="$PROJECT_DIR$/eerste_project/eerste_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guineaPigRaceList/guineaPigRaceList.iml" filepath="$PROJECT_DIR$/guineaPigRaceList/guineaPigRaceList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashMapTest/hashMapTest.iml" filepath="$PROJECT_DIR$/hashMapTest/hashMapTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meneer_of_mevrouw/meneer_of_mevrouw.iml" filepath="$PROJECT_DIR$/meneer_of_mevrouw/meneer_of_mevrouw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opdracht_namen/opdracht_namen.iml" filepath="$PROJECT_DIR$/opdracht_namen/opdracht_namen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opdracht_personen/opdracht_personen.iml" filepath="$PROJECT_DIR$/opdracht_personen/opdracht_personen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persoon_with_results/persoon_with_results.iml" filepath="$PROJECT_DIR$/persoon_with_results/persoon_with_results.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seconden_in_een_week/seconden_in_een_week.iml" filepath="$PROJECT_DIR$/seconden_in_een_week/seconden_in_een_week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testGuineaPig/testGuineaPig.iml" filepath="$PROJECT_DIR$/testGuineaPig/testGuineaPig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theGuineaPigRace/theGuineaPigRace.iml" filepath="$PROJECT_DIR$/theGuineaPigRace/theGuineaPigRace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theGuineaPigRaceProbeer/theGuineaPigRaceProbeer.iml" filepath="$PROJECT_DIR$/theGuineaPigRaceProbeer/theGuineaPigRaceProbeer.iml" />
+    </modules>
+  </component>
+</project>
